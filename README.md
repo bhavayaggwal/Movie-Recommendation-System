@@ -29,5 +29,5 @@ We form a tabular records of keywords and their frequency for each movie.
 These numbers will act as the cordinates for us to build a vector graph for our data.
 (We will not include stop words in vectorization - i.e. a,in,as,to,is, etc.)
 
-These graph will be in a 5000 dimensional space with each movie having its own dimensional vector.
+This graph will be in a 5000 dimensional space with each movie having its own dimensional vector.
 
